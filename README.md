@@ -1,7 +1,7 @@
 # AllRepository
 
-* [https://github.com/Zx7ffa4512-VBS](https://github.com/Zx7ffa4512-VBS)
-* [https://github.com/Zx7ffa4512-Python](https://github.com/Zx7ffa4512-Python)
-* [https://github.com/Zx7ffa4512-PowerShell](https://github.com/Zx7ffa4512-PowerShell)
-* [https://github.com/Zx7ffa4512-Tools](https://github.com/Zx7ffa4512-Tools)
-* [https://github.com/Zx7ffa4512-MindMap](https://github.com/Zx7ffa4512-MindMap)
+* [VBS](https://github.com/Zx7ffa4512-VBS)
+* [Python](https://github.com/Zx7ffa4512-Python)
+* [PowerShell](https://github.com/Zx7ffa4512-PowerShell)
+* [Tools](https://github.com/Zx7ffa4512-Tools)
+* [MindMap](https://github.com/Zx7ffa4512-MindMap)
